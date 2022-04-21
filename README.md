@@ -12,6 +12,8 @@
 </p>
 <br/>
 _____ This Repo is a version of what PatrickAlphaC has done in his tutorial and I just changed it a little bit ____
+
+
 This is a repo to work with and use NFTs smart contracts in a python environment, using the Chainlink-mix as a starting point. 
 
 If you'd like to see another repo using random NFTs that are deployed to mainnet, check out the [D&D package](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft).
