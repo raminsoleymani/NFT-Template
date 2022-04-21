@@ -1,0 +1,14 @@
+{
+  "4": {
+    "AdvancedCollectible": [
+      "0x17Ee49A4D3025d51D6ea3398121151e4F391b726",
+      "0x9567a1E6E58caf2Ea644f22668709603606b7FDC",
+      "0x644774b613EbC4C0F22986c89c8Ac9BEA6149335"
+    ]
+  },
+  "42": {
+    "SimpleCollectible": [
+      "0x4c78eB0869ed5B2b735aA60abf0fE34437eD009C"
+    ]
+  }
+}
